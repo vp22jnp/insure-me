@@ -1,4 +1,4 @@
-package com.project.staragile.insureme;
+package com.project.mentorbabaa.insureme;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

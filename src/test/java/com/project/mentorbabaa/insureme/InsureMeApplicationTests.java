@@ -1,9 +1,12 @@
-package com.project.staragile.insureme;
+package com.project.mentorbabaa.insureme;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+
+import com.project.mentorbabaa.insureme.Policy;
+import com.project.mentorbabaa.insureme.PolicyService;
 
 @SpringBootTest
 class InsureMeApplicationTests {

@@ -1,4 +1,4 @@
-package com.project.staragile.insureme;
+package com.project.mentorbabaa.insureme;
 
 import javax.annotation.Generated;
 import javax.persistence.Entity;

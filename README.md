@@ -71,4 +71,12 @@ To implement a Proof of Concept (POC), develop a Mavenized microservice using Sp
 
 All these steps should happen automatically, triggered by a push to the GitHub master branch.
 
+## Application source code is available at the following link
+https://github.com/mentorbabaa/insure-me-app.git
+
+## How to submit the project the project : 
+
+1. Create a document with detailed step by step tasks along with the screenshot. 
+2. Please mention your github repository containing all the codes includeing application code, pipeline code, Dockerfile, Ansible scripts, Terraform scripts, kubernetes scripts etc.
+3. Upload the project in your Designated Google Drive Folder.
 
